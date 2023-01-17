@@ -40,3 +40,11 @@ _Realizar ejercicios y análisis de frecuencias y periodos
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/PqL2sWtH/Captura-de-pantalla-20230117-132644.png" alt="Captura-de-pantalla-20230117-132644"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/JnZxtRDd/Captura-de-pantalla-20230117-132649.png" alt="Captura-de-pantalla-20230117-132649"/></a><br/><br/>
 <a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Zq1jTWRd/Captura-de-pantalla-20230117-132655.png" alt="Captura-de-pantalla-20230117-132655"/></a><br/><br/>
+
+4)Video
+
+5.Conclusiones
+
+Realizando este informe se pudo tener presente los temas proporcionados por el libro de Floyd en el capitulo 11 y 12 en el que se topan temas ya más profundos y teóricos en la materia de fundamentos de circuitos electronicos. Fue importante para poder realizar este circuito el hecho de aplicar los conocimientos adquiridos en clase para poder trabajar con ondas sinusoidales, frecuencias, periodos y capacitores.
+
+6.Bibliografía _Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearso
